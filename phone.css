@@ -1,0 +1,20 @@
+
+.profile-pic{
+    flex-direction: column;
+    width: 1200px;
+    height: 580px;
+    background-size: contain;
+}
+.main{
+    width: 1200px;
+}
+.quote {
+    font-size: 25px;
+    padding: 0;
+    margin: 0;
+    top: 500px;
+    left: 20px;
+    position: absolute;
+    color: white;
+    width: 700px;
+}
